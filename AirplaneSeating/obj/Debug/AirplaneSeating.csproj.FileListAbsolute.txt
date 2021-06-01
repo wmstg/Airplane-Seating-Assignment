@@ -1,0 +1,11 @@
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\bin\Debug\AirplaneSeating.exe.config
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\bin\Debug\AirplaneSeating.exe
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\bin\Debug\AirplaneSeating.pdb
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\obj\Debug\AirplaneSeating.MainForm.resources
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\obj\Debug\AirplaneSeating.Properties.Resources.resources
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\obj\Debug\AirplaneSeating.csproj.GenerateResource.cache
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\obj\Debug\AirplaneSeating.csproj.CoreCompileInputs.cache
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\obj\Debug\AirplaneSeating.exe
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\obj\Debug\AirplaneSeating.pdb
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\obj\Debug\AirplaneSeating.csprojAssemblyReference.cache
+C:\Users\gtwil\Documents\Uni\202021\Application Development\Coursework 1\AirplaneSeating\AirplaneSeating\AirplaneSeating\obj\Debug\AirplaneSeating.ReserveSeatForm.resources

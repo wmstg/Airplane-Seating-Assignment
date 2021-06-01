@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AirplaneSeating.Seat">
+    <Position X="10.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="AirplaneSeating.Seat.CabinClass">
+        <TypeIdentifier>
+          <NewMemberFileName>Seat.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAIAAIAgAAiAIAAAAAAAIAgAACAIAA=</HashCode>
+      <FileName>Seat.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="passenger" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AirplaneSeating.Passenger" HideInheritanceLine="true">
+    <Position X="13.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirplaneSeating.Airplane">
+    <Position X="7" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAgAAAAAAAAoBIAAABAAgIAQCgAAgQAAAA=</HashCode>
+      <FileName>Airplane.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="seatList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="AirplaneSeating.MainForm">
+    <Position X="2.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>QBhAAAQIECAgIBQgAgCAEgBCQCkAIIEgBDAAACAAgBI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="System.Runtime.Serialization.ISerializable">
+    <Position X="10.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
